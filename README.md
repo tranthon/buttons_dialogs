@@ -1,1 +1,2 @@
 # buttons_dialogs
+An accept and a cancel buttons that, when clicked, trigger the display of popups, slide the message popup from the right into view. The popups will slide back out of view 8 seconds after coming into view or when clicking anywhere on the page except the buttons and the popups. These buttons work for touch device and are responsive. 
